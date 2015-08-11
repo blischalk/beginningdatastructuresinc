@@ -1,0 +1,15 @@
+* Data Structure Operations:
+
+- Traversiong
+- Insertion
+- Deletion
+- Searching
+- Sorting
+- Merging
+
+
+** Stacks
+
+- Push: Insert element onto a stack
+- Pop: Delete an element from a stack. Item removed and returned.
+- Peek: Access top element of a stack without removing. Item returned.
